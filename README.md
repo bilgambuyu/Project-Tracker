@@ -1,8 +1,6 @@
 # Project Dashboard
 
 [![Excel VBA](https://img.shields.io/badge/Excel-VBA-1D6F42.svg)](https://github.com/microsoft/vba)
-[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/yourusername/project-dashboard)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Excel](https://img.shields.io/badge/Excel-2010%2B-217346.svg)](https://www.microsoft.com/excel)
 
 ## Overview
