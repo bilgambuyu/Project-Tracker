@@ -9,7 +9,7 @@
 
 The **Executive Project Dashboard** is a comprehensive Excel-based project management solution built with VBA. It provides real-time tracking, visualization, and analysis of project portfolios with an executive-level dashboard interface. Perfect for project managers, team leads, and executives who need instant insights into project performance.
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=Executive+Dashboard+Preview)
+![Dashboard Preview](https://github.com/bilgambuyu/Project-Tracker/blob/main/screenshot.gif)
 
 ## ✨ Key Features
 
